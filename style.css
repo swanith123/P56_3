@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background-color:cornflowerblue;
+}
+
+p {
+    font-size: 20px;
+}
+.row{
+    margin-left: 15px;
+    
+}
+.design_div{
+    padding:10px;
+    padding-top: 30px;;
+    border: 5px solid cornflowerblue;
+    width: 420px;
+    height: 350px;
+   
+
+}
+h1{
+    text-decoration: underline;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    width: 300px;
+    height:250px;
+}
+.yellow {
+    background: linear-gradient(to top left, #ffff00 0%, #ffffff 100%);
+
+}
+
+.pink {
+    background: linear-gradient(to top left, #ff00ff 0%, #ffccff 100%);
+
+}
+
+.lavender {
+    background: linear-gradient(to top left, #9900cc 0%, #ccccff 100%);
+    
+}
+
+.blue {
+    background: linear-gradient(to top left, #3399ff 0%, #00ffff 100%);
+
+}
